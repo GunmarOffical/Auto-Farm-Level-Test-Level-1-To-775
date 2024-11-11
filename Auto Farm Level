@@ -61,11 +61,11 @@ end;local ChackQ = function()
         }
     elseif Lv.Value >= 75 and Lv.Value <= 90 then
         return {
-            ["Mon"] = 'Desert Officers',
+            ["Mon"] = 'Desert Officier',
             ["NumQ"] = 'DesertQuest',
             ["NameQ"] = 2,
             ["CFrameQ"] = CFrame.new(894.480712890625, 11.567374229431152, 4392.337890625),
-            ["CFrameMon"] = CFrame.new(1608.0264892578125, 1.3362988233566284, 4463.21826171875)
+            ["CFrameMon"] = CFrame.new(1623.231689453125, 1.7362850904464722, 4356.12109375)
         }
     elseif Lv.Value >= 90 and Lv.Value <= 100 then
         return {
