@@ -65,7 +65,7 @@ end;local ChackQ = function()
             ["NumQ"] = 'DesertQuest',
             ["NameQ"] = 2,
             ["CFrameQ"] = CFrame.new(894.480712890625, 11.567374229431152, 4392.337890625),
-            ["CFrameMon"] = CFrame.new(1673.5989990234375, 10.025238037109375, 4388.72900390625)
+            ["CFrameMon"] = CFrame.new(1608.0264892578125, 1.3362988233566284, 4463.21826171875)
         }
     elseif Lv.Value >= 90 and Lv.Value <= 100 then
         return {
